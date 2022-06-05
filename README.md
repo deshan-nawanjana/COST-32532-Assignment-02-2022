@@ -15,4 +15,4 @@ Also sample data will be added to the database.
 
 ## Starting The Application
 
-Start your WAMP / XAMPP / Laragon Server and visit `login.php`
+Visit `login.php` for your PC web browser.
