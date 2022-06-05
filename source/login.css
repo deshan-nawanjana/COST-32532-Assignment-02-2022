@@ -1,0 +1,37 @@
+* {
+    font-family: "Comic Sans MS";
+}
+
+body {
+   background-color: #749e9b;
+   margin: 40px;
+}
+
+form {
+    background-color: #553636;
+    padding: 40px; 
+    border-radius: 20px;
+    border: 2px solid #b18e8e;
+}
+
+label > div {
+    color: #82827c;
+}
+
+input {
+    margin: 10px 20px;
+    height: 35px;
+    width: calc(100% - 70px);
+    padding: 0px 15px;
+    border-radius: 10px;
+    border: 1px solid #82827c;
+}
+
+button {
+    background-color: #23aeca;
+    color: #ffffff;
+    border: none;
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+}
