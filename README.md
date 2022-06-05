@@ -1,4 +1,4 @@
-# Sample Login and Applicant Registration System
+# Simple Login and Applicant Registration System
 
 ## Setup Database Environment
 
@@ -16,3 +16,7 @@ Also sample data will be added to the database.
 ## Starting The Application
 
 Visit `login.php` for your PC web browser.
+
+## Authentication Warning
+
+Since there is no authentication requirement in the assignment, I haven't use any security method such as JWT / Cookie check. Therefore, DO NOT use this system for any situation other than education purpose.
